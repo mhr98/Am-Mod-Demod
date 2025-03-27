@@ -18,7 +18,7 @@ The other healper functions that were used:
 ## More Details
 This project is from the following tutorial:
 
-[![YouTube Video](https://img.youtube.com/vi/CQJrDG87pQQ/0.jpg)](https://www.youtube.com/watch?v=CQJrDG87pQQ)
+[![YouTube Video](https://img.youtube.com/vi/G1sp7t81Yw0/0.jpg)](https://www.youtube.com/watch?v=G1sp7t81Yw0)
 
 ## License
 This project is licensed under the GNU General Public License v3.0.  
