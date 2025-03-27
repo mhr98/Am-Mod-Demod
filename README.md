@@ -1,5 +1,5 @@
 # Hands-On Introduction to Amplitude Modulation (AM) Using MATLAB
-This video introduces one of the simplest and most famous modulation schemes: Amplitude Modulation (AM). First, we cover what modulation is and how an AM system works. Then, we demonstrate how to implement AM practically using MATLAB.
+This project introduces one of the simplest and most famous modulation schemes: Amplitude Modulation (AM). First, we cover what modulation is and how an AM system works. Then, we demonstrate how to implement AM practically using MATLAB.
 
 See More Detailes section below to find the video.
 
